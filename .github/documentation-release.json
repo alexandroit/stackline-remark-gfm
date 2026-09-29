@@ -1,0 +1,36 @@
+{
+  "repository": "alexandroit/stackline-remark-gfm",
+  "packages": [
+    {
+      "name": "@stackline/remark-gfm",
+      "path": "readme.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "remark-gfm",
+        "typescript",
+        "unified",
+        "remark",
+        "remark-plugin",
+        "plugin",
+        "mdast",
+        "markdown",
+        "table",
+        "strikethrough",
+        "tasklist",
+        "autolink",
+        "footnote",
+        "github",
+        "gfm",
+        "maintenance-fork"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/remark-gfm/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/remark-gfm/-/remark-gfm-1.0.0.tgz",
+      "baselineIntegrity": "sha512-t8Ykt1KlkBdYlfdHmYFtvXGr2dxWmKq6y2aVI6gxnMSrxL3aCFAfAyYZ6iLBOmVJmMcOmhCF8PYc4g5EkEMJaw==",
+      "expectedSha512": "7576b85db1dfd98add2e5e8dbdef99fc957a27de57cb3479dfc6074e347142c7f878e36cf599f08849d05ffb823de575cc55a60c515ae8096b2c155e7cfbb61b",
+      "tag": "docs-stackline-remark-gfm-v1.0.1"
+    }
+  ]
+}
